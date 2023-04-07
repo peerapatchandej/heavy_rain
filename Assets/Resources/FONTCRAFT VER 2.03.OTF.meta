@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ddb6d414adb7f7d458473f33d64420ef
+timeCreated: 1486046465
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fontcraft
+  fontNames:
+  - Fontcraft
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
